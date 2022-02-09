@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Talk-公众号-brightgreen.svg?style=popout-square" alt="WeiXin"></a>
-  <a href="https://github.com/byc233518/webGL_guide/stargazers"><img src="https://img.shields.io/github/stars/byc233518/webGL_guide.svg?style=popout-square" alt="GitHub stars"></a>
+  <a href="https://github.com/byc233518/webGL_guide/stargazers"><img src="https://img.shields.io/github/stars/cbamls/AI_Tutorial.svg?style=popout-square" alt="GitHub stars"></a>
   <a href="https://github.com/byc233518/webGL_guide/issues"><img src="https://img.shields.io/github/issues/byc233518/webGL_guide.svg?style=popout-square" alt="GitHub issues"></a>
     <a href="#"><img src="https://img.shields.io/badge/issue-webGL__guide-red?style=popout-square" alt="webGL"></a>
 </p>
