@@ -1,7 +1,7 @@
 <p align="center">
   <h1>WebGL 资源汇总</h1>
 <!--   <img src=""/> -->
-  <br>中文 | <a href="README_en.md">English</a>
+  <br>中文 | <a href="#">English</a>
   <br>全面整理高质量的 WebGL,ThreeJS 等技术资料。内容主要来自开源项目官网、综合技术网站、知名技术公众号等。
 </p>
 
@@ -14,11 +14,11 @@
 
 
 
-> Github：https://github.com/byc233518/webGL
+> Github： https://github.com/byc233518/WebGL_guide
 >
 > Website: http://www.baiyuchuan.com
 >
-> Mail:       byc233518@gmail.com
+> Mail:    byc233518@gmail.com
 >
 > Version: 2022.02.09
 
